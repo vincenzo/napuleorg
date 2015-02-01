@@ -1,5 +1,5 @@
-# napuleorg
-Static backup of Napul'è's final copy 
+# Napul'è
+Static backup of Napul'è's final edition.
 
 Italian blog about the city of Naples (Napoli). 
 Eventually discontinued; no more articles will be authored on this site.
